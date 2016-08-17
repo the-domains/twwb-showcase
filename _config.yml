@@ -1,14 +1,14 @@
-layout_spectrum: 0.07127423258498311
-typography_spectrum: 0.20676077413372695
+layout_spectrum: 0.36639666254632175
+typography_spectrum: 0.09428433887660503
 color:
-  brandStrength: 0.8409726438112557
-  lightness: 0.5231554261408746
-  saturation: 0.5822891297284514
-  rhythmicContrast: 0.5692198954056948
+  brandStrength: 0.04236652026884258
+  lightness: 0.7478727186098695
+  saturation: 0.9954091089311987
+  rhythmicContrast: 0.39583872142247856
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: TWWB Showcase
