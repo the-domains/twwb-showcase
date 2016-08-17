@@ -1,4 +1,3 @@
-layout_spectrum: 0.36639666254632175
 typography_spectrum: 0.09428433887660503
 color:
   brandStrength: 0.04236652026884258
@@ -11,5 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.36639666254632175
 name: TWWB Showcase
 title: Tech Writers Without Borders
+description: Tech Writing for Good!
